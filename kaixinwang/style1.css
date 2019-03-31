@@ -1,0 +1,110 @@
+a{
+    text-decoration: none;
+}
+img.top{
+    
+    padding: 2px;
+    padding-top: 8px;
+    padding-left: 30px;
+    height: 20px;
+
+    
+}
+.mid{
+    border-radius: 10px;
+    margin: 25px 331px 5px;
+    border: 1px solid;
+    display: flex;
+    justify-content:center;
+    border-color: #D3D3D3;
+ 
+}
+.mmmid{
+    display: flex;
+}
+#tttop{
+    background: url(http://img1.kaixin001.com.cn/i/homenew/headbg.png) repeat-x;}
+.top{
+
+    margin: 0px 332px;
+    height: 30px;
+    border: 0px;
+    background: url(http://img1.kaixin001.com.cn/i/homenew/headbg.png) repeat-x;
+    
+
+}
+
+form{
+    display: inline;
+}
+
+div{
+    align-content: center;
+}
+div.in{
+    
+    margin: 20px;
+   
+}
+.re{
+    text-align:center;
+}
+p{
+    font-size: 12px;
+    font-family: "宋体";
+}
+
+#register{
+    width: 175px;
+    height: 38px;
+    display: inline-block;
+    color: white;
+    font-family:"黑体";
+    font-weight: bolder;
+    align-content: center;
+
+    
+    background-image: url("register.png");
+    background-repeat: no-repeat;
+    background-position: -1px，-1px;
+}
+b{
+    font-size: 8px;
+    line-height: 50%;
+}
+li{
+    font-size: 12px;
+    list-style: none;
+    align-content: center;
+}
+
+a.topright{
+    
+    float: right;
+    padding-right: 10px;
+    font-size: 10px;
+    
+}
+#ml{
+    padding: 0;
+}
+
+.midright{
+   
+    width: 400px;
+    padding: 30px;
+
+    border-left: 1px,solid;
+    
+}
+.left{
+    
+    box-shadow: 5px 0 10px -5px #d4c9c9;
+  
+    width: 400px;
+    margin: 0px;
+    padding: 30px;
+    content: 510px;
+
+
+}

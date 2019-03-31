@@ -1,0 +1,61 @@
+a{
+    text-decoration: none;
+}
+.top{
+    text-decoration: none;
+    color: white;
+    
+    font-size:20px;
+    font-weight:2px;
+    text-indent:2em;
+    background-color: red;
+   
+}
+
+.class{
+    width: 300px;
+    height: 120px;
+    border: 1px solid#000;
+    float: left;
+}
+.mid{
+    border:200px;
+
+}
+li{
+   
+    list-style-type: none;
+    margin:10px;
+}
+div{
+    border: 50px;
+    padding: 50px;
+}
+form{
+    display: inline;    
+}
+#help{
+   float: right;
+
+  
+}
+.midleft{
+    float: left;
+    padding: 0px;
+    padding-top: 20px;
+    padding-left: 50px;
+    
+}
+
+.midright{
+    border: 100px;
+    display: block;
+    padding-block-start: 10px;
+    padding-left: 50px;
+
+    
+}
+span{
+    display: inline;
+}
+
