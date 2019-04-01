@@ -1,0 +1,167 @@
+a{
+    text-decoration: none;
+}
+img.top{
+    
+    padding: 2px;
+    padding-top: 8px;
+    padding-left: 10px;
+    height: 20px;
+
+    
+}
+.mid{
+    border-radius: 10px;
+    margin: 25px 331px 5px;
+    border: 1px solid;
+    display: flex;
+    justify-content:center;
+    border-color: #D3D3D3;
+ 
+}
+.mmmid{
+    justify-content: center;
+    display: flex;
+}
+#tttop{
+    display: flex;
+    background: url(http://img1.kaixin001.com.cn/i/homenew/headbg.png) repeat-x;}
+.top{
+   
+
+    margin: 0px 332px;
+    height: 30px;
+    border: 0px;
+    background: url(http://img1.kaixin001.com.cn/i/homenew/headbg.png) repeat-x;
+    
+
+}
+
+form{
+    display: inline;
+}
+
+div{
+    align-content: center;
+}
+div.top{
+    justify-content: center;
+    width: 1200px;
+}
+div.in{
+    
+    margin: 20px;
+   
+}
+.re{
+    text-align:center;
+}
+p{
+    font-size: 12px;
+    font-family: "宋体";
+}
+
+#register{
+    width: 175px;
+    height: 38px;
+    display: inline-block;
+    color: white;
+    font-family:"黑体";
+    font-weight: bolder;
+    align-content: center;
+
+    
+    background-image: url("register.png");
+    background-repeat: no-repeat;
+    background-position: -1px，-1px;
+}
+b{
+    font-size: 20px;
+    color: white;
+    font-weight: 50;
+}
+li{
+    font-size: 12px;
+    list-style: none;
+    align-content: center;
+}
+
+a.topright{
+    
+    float: right;
+    padding-right: 10px;
+    font-size: 10px;
+    
+}
+#ml{
+    padding: 0;
+}
+
+.midright{
+   
+    width: 400px;
+    padding: 30px;
+
+    border-left: 1px,solid;
+    
+}
+.left{
+    
+    box-shadow: 5px 0 10px -5px #d4c9c9;
+  
+    width: 400px;
+    margin: 0px;
+    padding: 30px;
+    content: 510px;
+
+
+}
+.button{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    
+
+
+}
+.but1{
+ 
+    margin: 0;
+    padding: 0;
+ 
+
+
+    width: 920px;
+    
+
+}
+a.but1{
+    font-size: 15px;
+    margin: 10px;
+    
+
+}
+#shangbiao{
+    float: right;
+    color: #d4c9c9;
+    font-weight: 80;
+
+}
+.foot{
+    display: flex;
+    justify-content: center;
+}
+.foot1{
+    background-color: rgb(240, 240, 240);
+    color:#757575;
+    
+
+}
+
+a.foot1{
+    color: #d4c9c9;
+}
+
+body{
+    justify-content: center;
+}

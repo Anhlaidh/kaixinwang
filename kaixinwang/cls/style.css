@@ -1,0 +1,27 @@
+td{
+   text-align: center ;    
+   font-family: 宋体;
+}
+#div1{
+  
+   background-color: red;
+
+} 
+.div2{
+   float: right;
+   background-color: blue;
+   display: inline;
+   
+   
+}
+#p1{
+   margin: 0px;
+   padding: 0px;
+   background-color: red;
+   
+}
+#p2{
+   margin: 100px;
+   padding: 100px;
+   background-color: blue;
+}
